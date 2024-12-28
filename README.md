@@ -1,1 +1,1 @@
-# -HardwareArchitecture
+# -Grishakov.HardwareArchitecture
